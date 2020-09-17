@@ -1,0 +1,3 @@
+Portforwading 
+1. kubectl get pods
+2. Kubectl port-forward nats-depl-deploymentname 4222:4222
